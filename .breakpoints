@@ -1,0 +1,20 @@
+{
+  "files": {
+    "cmnds/bruh.js": [
+      {
+        "id": "52e452a8-5113-4e2f-ad09-a881233bba8d",
+        "line": 5,
+        "version": 8,
+        "index": 83
+      }
+    ],
+    "cmnds/hi.js": [
+      {
+        "id": "448660e8-af13-483a-9691-e12a4948913a",
+        "line": 5,
+        "version": 6,
+        "index": 91
+      }
+    ]
+  }
+}
